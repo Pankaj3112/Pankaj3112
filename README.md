@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://pankajbeniwal.tech](https://pankajbeniwal.tech)
+- 👨‍💻 All of my projects are available [here]([https://pankajbeniwal.tech](https://portfolio-pankaj3112.vercel.app/))
 
 - 💬 Ask me about **react, express**
 
