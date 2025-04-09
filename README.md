@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj3112&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj3112" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available [here](https://portfolio-pankaj3112.vercel.app/)
 
-- 💬 Ask me about **react, express**
+- 💬 Ask me about **next, express, mongo, postgres**
 
 - 📫 How to reach me **pankajbeniwal3112@gmail.com**
 
