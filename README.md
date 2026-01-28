@@ -1,20 +1,40 @@
-<h1 align="center">Hi 👋, I'm Pankaj</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+# Hey, I'm Pankaj 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj3112&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj3112" /> </p>
+Software Engineer building AI-powered products and automation systems.
 
-- 🌱 I’m currently learning **React Native**
+2 years of experience shipping production software, from email marketing platforms to voice AI agents to content generation pipelines.
 
-- 👨‍💻 All of my projects are available [here](https://portfolio-pankaj3112.vercel.app/)
+---
 
-- 💬 Ask me about **next, express, mongo, postgres**
+### What I'm Working On
 
-- 📫 How to reach me **pankajbeniwal3112@gmail.com**
+🔧 **[Quick Ping](https://github.com/pankaj3112/quick-ping)** - Website chat widget that routes visitor messages to Telegram. Reply from Telegram, visitors see it on site.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OoxuRMTEGWLiA283iXbhT5G60ZjcYNTA/view?usp=drive_link](https://drive.google.com/file/d/1OoxuRMTEGWLiA283iXbhT5G60ZjcYNTA/view?usp=drive_link)
+🧠 **[Softpy](https://github.com/pankaj3112/softpy)** - A Python-like language that compiles to JavaScript. Runs in browser. Built the lexer, parser, and compiler from scratch.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/pankaj-beniwal-7a7004226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/pankaj-beniwal-7a7004226" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pankajbeniwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankajbeniwal" height="30" width="40" /></a>
-</p>
+---
+
+### What I've Built (Professional)
+
+📧 **Revriser** - Full email marketing platform (solo build). Contact management, domain verification, template builder, campaign scheduling. Stack: Next.js, NestJS, Temporal, PostgreSQL, ClickHouse, AWS SES.
+
+🤖 **AI Automation Systems** - End-to-end blog generation (zero human intervention), voice AI agents handling 400+ calls/month, parsed 2M+ emails for lead generation.
+
+🎓 **Nail IB** - AI-powered question generation for IB students. Built pipeline that generated 10,000+ practice questions with automated answers.
+
+---
+
+### Tech I Work With
+
+**Languages:** TypeScript, JavaScript, Python  
+**Frontend:** Next.js, React, Vite, Tailwind  
+**Backend:** Node.js, NestJS, Express, Convex  
+**Databases:** PostgreSQL, Redis, ClickHouse, MongoDB  
+**AI/LLMs:** Vercel AI SDK, OpenRouter, OpenAI, Anthropic, Pinecone, Supabase Vector, n8n, Retell AI
+**Infrastructure:** Cloudflare, Digital Ocean, Temporal, n8n, GitHub Actions
+
+---
+
+### Links
+
+📄 [Resume](https://drive.google.com/file/d/1OoxuRMTEGWLiA283iXbhT5G60ZjcYNTA/view) · 💼 [LinkedIn](https://www.linkedin.com/in/pankaj-beniwal-7a7004226) · 🌐 [Portfolio](https://portfolio-pankaj3112.vercel.app/)
